@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-drchaos-master": "src-drchaos-master"
+        "src-drchaos-v0_1_2": "src-drchaos-v0_1_2"
       }
     },
-    "src-drchaos-master": {
+    "src-drchaos-v0_1_2": {
       "flake": false,
       "locked": {
-        "lastModified": 1661800747,
-        "narHash": "sha256-NZVhkCMmppBA28uceMABQl/igd45zA5tjoWYXUnapPA=",
+        "lastModified": 1661679838,
+        "narHash": "sha256-WYNsvdh27QJMbzy0QWBlMLWcwSpJwi3wyaiDfdC602M=",
         "owner": "status-im",
         "repo": "nim-drchaos",
-        "rev": "2afef4b046363d0215b7fc587298b7e008524794",
+        "rev": "c5665f9bde41a9d5fbcba5e7b13840f35afa1032",
         "type": "github"
       },
       "original": {
         "owner": "status-im",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.1.2",
         "repo": "nim-drchaos",
         "type": "github"
       }
