@@ -1,0 +1,2 @@
+--define: runFuzzTests
+--define: fuzzerStandalone
